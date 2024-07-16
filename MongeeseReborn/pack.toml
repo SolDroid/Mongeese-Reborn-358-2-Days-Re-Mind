@@ -1,0 +1,13 @@
+name = "Mongeese Reborn"
+author = "Max Caplan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d9aaf86f68b10e69ed790bf11e1257377eb98dddc96f47e73d9688632e34af0"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
