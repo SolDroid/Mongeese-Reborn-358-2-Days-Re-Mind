@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aileron.pw.toml"
+hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f4fce67c57b4c42e12e705c25ec3feedb85cef927c2578983e59a59582c81ace"
 metafile = true
@@ -166,6 +171,11 @@ hash = "ef1f961c71b08f2a948299a9a5156aaf4b1628897838aff10c18458c46dc4350"
 metafile = true
 
 [[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "624b26b1f2def748fab13e6b56f8ea8bab8cbe25c4a01f237437e6da4fe4ed88"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "708ac4fc4da8bba3f5aedcd8534bd15dee339aacbeb3f3f75b17f5a748c67679"
 metafile = true
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
 
 [[files]]
