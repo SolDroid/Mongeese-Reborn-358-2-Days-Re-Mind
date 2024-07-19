@@ -351,6 +351,11 @@ hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "08466e36ec0585de1c99f28e5f91566160e06283e5d69ad47c74623f72ce9385"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -373,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true
 
 [[files]]
@@ -481,6 +491,11 @@ hash = "23864eebcc7167d7650a953c6abd2a87a42875883c2c421afa95056a04abb1f8"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
@@ -511,6 +526,11 @@ hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "062e145a4c182959dc44f1fe531514191692ed6088ee5b307143a81ec39d9c70"
 metafile = true
@@ -533,11 +553,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
 metafile = true
 
 [[files]]
