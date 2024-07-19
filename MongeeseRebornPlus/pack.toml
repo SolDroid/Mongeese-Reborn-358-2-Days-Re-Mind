@@ -1,4 +1,4 @@
-name = "Mongeese Reborn Lite"
+name = "Mongeese Reborn Plus"
 author = "Max Caplan"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5907bc7c33ffae34facbc921f6784dd804a0830e3518249941241c7086da3815"
+hash = "f17b388aa277c719f5b83ac285a5ccf7f646ebbf3153e31e97b5267bfcd34b82"
 
 [versions]
 fabric = "0.15.11"

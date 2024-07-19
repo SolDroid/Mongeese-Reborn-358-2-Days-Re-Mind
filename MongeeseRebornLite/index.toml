@@ -476,6 +476,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "cc0a19f55f9f04eb1b593129f81051afe20b119d126d40a5e4b03178a660e164"
+metafile = true
+
+[[files]]
 file = "mods/villager-transportation.pw.toml"
 hash = "822fd2dd92ed6d1ecd5461bd260f3c76381ae57372849741c6c0702ae7816b05"
 metafile = true
