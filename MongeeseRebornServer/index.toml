@@ -46,6 +46,11 @@ hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
 
 [[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "bcac9bb680ef83b99bacc8e96bd4f77372f5360d49083ad4d53a6b0412f386ed"
+metafile = true
+
+[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "cececdd6c8b1b3ebe9907176ec8eb9510ccfde9b1bcfc7f05f92383867ae216e"
 metafile = true
@@ -558,11 +563,6 @@ metafile = true
 [[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "5fabb342081d359c5ff7c7cee092474af9aba54cd33129964fd1e6a1ae800e78"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
 metafile = true
 
 [[files]]
