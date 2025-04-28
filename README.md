@@ -4,7 +4,7 @@ You can use either  Prism Launcher (*preferred*) or MultiMC
 
 1. Install your launcher of choice: [Prism Launcher](https://prismlauncher.org/download) or [MulticMC](https://multimc.org/#Download)
 
-2. Ensure you have Java 17 installed. You can download the installer [here](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe)
+2. Ensure you have Java 21 installed. You can download the installer [here](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe)
 
 3. Click `Add Instance` to create a new minecraft instance
 4. In the pop up window, select `Import from zip`
@@ -14,7 +14,7 @@ You can use either  Prism Launcher (*preferred*) or MultiMC
     - [ModgeeseRebornPlus](https://github.com/WizTheRad/MongeeseReborn/releases/latest/download/MongeeseRebornPlus.zip) (Includes some extra mods to improve the experience) 
 6. Click `OK` to create the instance
 7. Double click the created instance to launch the game
-8. If you get an error for the wrong java version, right click the instance, select `edit instance`, navigate to settings, check the `Java Installation` box, click the `Auto-detect` button, and select the Java 17 version from the list. Relaunch the instance
+8. If you get an error for the wrong java version, right click the instance, select `edit instance`, navigate to settings, check the `Java Installation` box, click the `Auto-detect` button, and select the Java 21 version from the list. Relaunch the instance
 
 ## Server Details:
 >**Address**: *[mc.themongeese.com](https://mc.themongeese.com)*\
