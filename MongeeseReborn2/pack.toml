@@ -1,0 +1,13 @@
+name = "Mongeese Reborn 2"
+author = "Solomon Killam"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a6f102648b4c0b35f7f46a4dbfa26f0764734c9a4180de8d10213ff61a6604f"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
