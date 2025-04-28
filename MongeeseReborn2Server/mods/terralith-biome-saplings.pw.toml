@@ -1,13 +1,13 @@
 name = "Custom Biome Saplings"
-filename = "terralith-biome-saplings-1.1.0c.jar"
+filename = "terralith-biome-saplings-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CYGkXnUb/versions/nb8lLMAv/terralith-biome-saplings-1.1.0c.jar"
-hash-format = "sha1"
-hash = "973432fb3e79d17117f8f64cbaea8b951e610be9"
+url = "https://cdn.modrinth.com/data/CYGkXnUb/versions/P1i1a8DT/terralith-biome-saplings-1.1.5.jar"
+hash-format = "sha512"
+hash = "cea0fdd40bcd563d227483d02b5184016767673bcae88e03fe8620c584ebbe58f6d9ba7251ba4b94b0c13f9b315085e07b40d6780b683b8f197850bbadbccc2f"
 
 [update]
 [update.modrinth]
 mod-id = "CYGkXnUb"
-version = "nb8lLMAv"
+version = "P1i1a8DT"
