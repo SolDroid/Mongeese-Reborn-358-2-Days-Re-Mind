@@ -1,6 +1,6 @@
-name = "Mongeese Reborn Lite"
-author = "Max Caplan"
-version = "1.0.0"
+name = "Mongeese Reborn 2 Lite"
+author = "Solomon Killam"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "0564dafa8b8f32915a247b318a5f0123bdfe5227501a4e1c00e388e87234462d"
 
 [versions]
-fabric = "0.15.11"
-minecraft = "1.20.1"
+fabric = "0.16.14"
+minecraft = "1.21.1"

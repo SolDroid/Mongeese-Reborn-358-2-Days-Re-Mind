@@ -18,4 +18,4 @@ You can use either  Prism Launcher (*preferred*) or MultiMC
 
 ## Server Details:
 >**Address**: *[mc.themongeese.com](https://mc.themongeese.com)*\
-**Game Version**: *1.20.1* ***--to be changed--***
+**Game Version**: *[1.21.1](https://minecraft.wiki/w/Java_Edition_1.21.1)*
