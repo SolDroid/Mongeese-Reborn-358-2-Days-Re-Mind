@@ -1,13 +1,13 @@
 name = "Fast Items"
-filename = "fastitems-fabric-1.1.0-fabric+1.21(.1).jar"
+filename = "fastitems-fabric-1.1.0-fabric+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/H80QSt2v/versions/wT6midDM/fastitems-fabric-1.1.0-fabric%2B1.21%28.1%29.jar"
+url = "https://cdn.modrinth.com/data/H80QSt2v/versions/6YiHJdJC/fastitems-fabric-1.1.0-fabric%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "e1004e4880a8ee1a46dea00adfa3936070511f34494720a46e4759bb7180eb1dc2053e5c1f1f7745b5dd067385e73a5ba2ebbb50a348953a0420fa895615e24b"
+hash = "81bc74629383854c80e210a91eb96a24f95749ab8ebf84539db29f0342a57b0ed19c53477371149e555b7f97f61a475e527560582b1d26a91163d74ff3f3358e"
 
 [update]
 [update.modrinth]
 mod-id = "H80QSt2v"
-version = "wT6midDM"
+version = "6YiHJdJC"
